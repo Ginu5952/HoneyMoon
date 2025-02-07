@@ -25,5 +25,5 @@ Open the .xcodeproj or .xcworkspace file in Xcode.
 
 Run the project in the simulator.
 
-
+![HoneyBoon Screenshot](assets/output)  
 
