@@ -1,0 +1,36 @@
+# Xcode
+*.xcuserstate
+*.xcworkspace
+*.xccheckout
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcuserstate
+
+# Swift Packages
+.swiftpm
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Derived Data
+DerivedData/
+build/
+.DS_Store
+
+# Environment Variables
+*.xcconfig
+
+# Logs
+*.log
+
